@@ -1,0 +1,3 @@
+DATTA,M,12-05-12,9970089138,SAMBHAJINAGAR,0,0,0,16001,Datta07,firstbit
+SSSS,ss,sss,ss,SS,0,0,0,16002,ss,ss
+DD,dd,dd,ddd,DD,0,0,0,16003,dd,dd
